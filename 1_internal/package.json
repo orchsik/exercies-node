@@ -1,0 +1,13 @@
+{
+  "name": "1-internal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "set UV_THREADPOOL_SIZE=5 & node threads.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
